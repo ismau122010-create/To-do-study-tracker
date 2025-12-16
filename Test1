@@ -1,5 +1,0 @@
-first_name = "Abdirahman"
-my_age = 30
-likes_programming = True
-
-print(f"My name is {first_name}, I am {my_age} years old and I like programming: {likes_programming}")
