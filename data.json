@@ -1,0 +1,81 @@
+{
+  "todos": [
+    {
+      "task": "cleaning",
+      "status": "not yet"
+    },
+    {
+      "task": "study",
+      "status": "done"
+    },
+    {
+      "task": "cleaning",
+      "status": "done"
+    },
+    {
+      "task": "run",
+      "status": "done"
+    },
+    {
+      "task": "eat",
+      "status": "not yet"
+    },
+    {
+      "task": "eat",
+      "status": "done"
+    },
+    {
+      "task": "dance",
+      "status": "not yet"
+    },
+    {
+      "task": "dance",
+      "status": "done"
+    },
+    {
+      "task": "type",
+      "status": "not yet"
+    },
+    {
+      "task": "type",
+      "status": "done"
+    },
+    {
+      "task": "code",
+      "status": "done"
+    },
+    {
+      "task": "code",
+      "status": "done"
+    },
+    {
+      "task": "code",
+      "status": "not yet"
+    },
+    {
+      "task": "code",
+      "status": "done"
+    },
+    {
+      "task": "clean",
+      "status": "done"
+    },
+    {
+      "task": "sing",
+      "status": "not yet"
+    },
+    {
+      "task": "sing",
+      "status": "done"
+    },
+    {
+      "task": "sing",
+      "status": "not yet"
+    },
+    {
+      "task": "delete",
+      "status": "done"
+    }
+  ],
+  "study_sessions": []
+}
