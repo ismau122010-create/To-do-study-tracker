@@ -1,0 +1,23 @@
+{
+  "catagory": [
+    {
+      "category": "food",
+      "cost": 22.0,
+      "date": "10/05/22"
+    }
+  ],
+  "catogary": [],
+  "budget": [],
+  "category": [
+    {
+      "category": "tools",
+      "cost": 23.0,
+      "date": "12/06/24"
+    },
+    {
+      "category": "cloths",
+      "cost": 22.0,
+      "date": "05/02/23"
+    }
+  ]
+}

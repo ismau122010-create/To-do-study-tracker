@@ -1,0 +1,24 @@
+{
+  "expenses": [
+    {
+      "category": "food",
+      "cost": 100.0,
+      "date": "04/05/25"
+    },
+    {
+      "category": "cltohs",
+      "cost": 100.0,
+      "date": "04/10/24"
+    }
+  ],
+  "budgets": [
+    {
+      "category": "food",
+      "limit": 100.0
+    },
+    {
+      "category": "water",
+      "limit": 300.0
+    }
+  ]
+}
